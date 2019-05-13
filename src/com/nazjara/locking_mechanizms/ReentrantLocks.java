@@ -1,8 +1,7 @@
-package com.nazjara.locks;
+package com.nazjara.locking_mechanizms;
 
 import java.util.*;
 import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class ReentrantLocks {
